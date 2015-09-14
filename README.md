@@ -1,3 +1,3 @@
-# helloApp.github.io
+# ar-icom.github.io
 
 Hello World app
